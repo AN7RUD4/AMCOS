@@ -17,7 +17,7 @@ function App() {
       <div className="app-container">
         <header className="app-header">
           <h1>AMCOS</h1>
-          <p>Arabian Mechanical Construction Company</p>
+          <p>Arabian Mechanical Construction Services</p>
         </header>
         
         <nav className="sidebar">
